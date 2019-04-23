@@ -1,6 +1,6 @@
 # rmc-web
-[![Build Status](http://img.shields.io/travis/badges/rmc-web.svg?style=flat-square)](https://travis-ci.org/badges/rmc-web)
-[![Coverage Status](http://img.shields.io/coveralls/badges/rmc-web.svg?style=flat-square)](https://coveralls.io/r/badges/rmc-web)
+[![Build Status](http://img.shields.io/travis/badges/rmc-web.svg?style=flat-square)](https://travis-ci.org/ratemyclass/rmc-web)
+[![Coverage Status](http://img.shields.io/coveralls/badges/rmc-web.svg?style=flat-square)](https://coveralls.io/r/ratemyclass/rmc-web)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://rmc-web.mit-license.org)
 
 The web backend implementation for RateMyClass.
